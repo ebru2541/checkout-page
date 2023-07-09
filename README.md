@@ -1,5 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+
 
 # Checkout Page
 
@@ -14,10 +13,9 @@ Project aims to create a Checkout Page App.
 ## Project Skeleton
 
 ```
-Checkout Page App with Axios (folder)
+Checkout Page App
 |
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
+|----readme.md        
 ├── public
 │     └── index.html
 ├── src
@@ -83,17 +81,9 @@ Build a Checkout Page App using ReactJS.
 - You can add additional functionalities(storage or mockApi etc.) to your app.
 
 ## Demo
-  <a href="https://checkout-axios.vercel.app/" target="_blank">React Checkout Page</a>
-
-## MockApi
-
-<a href="https://mockapi.io/" target="_blank">MockApi</a>
+  <a href="https://checkout-page-eylt.vercel.app/" target="_blank">React Checkout Page</a>
 
 
-## How do we create mockApi? Watch the video!
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=3ZB7eM-Be98" target="_blank">
- <img src="https://i9.ytimg.com/vi/3ZB7eM-Be98/mqdefault.jpg?sqp=CIiY058G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhHMA8=&rs=AOn4CLAfy0IDqvoBcCqkFB9zW2bFUnh-IA" alt="Watch the video" title="Watch the video" />
-</a>
 
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
