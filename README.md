@@ -76,11 +76,7 @@ Build a Checkout Page App using ReactJS.
 
 - Step 6: Add project gif to your project and README.md file.
 
-## Notes
 
-- You can add additional functionalities(storage or mockApi etc.) to your app.
-
-## Demo
   <a href="https://checkout-page-eylt.vercel.app/" target="_blank">React Checkout Page</a>
 
 
